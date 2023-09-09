@@ -13,5 +13,3 @@ provider "aws" {
   shared_credentials_files = "~/.aws/creds" # cualquier path
   profile                  = "customprofile"
 }
-
-test test
